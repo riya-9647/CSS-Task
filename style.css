@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .container{
+    width: 1200px;
+    height: 300px;
+    background-color: purple;
+    margin: 30px 30px 30px 30px;
+    padding-bottom: 0;
+    
+    
+
+}
+.wrapper{
+    width: 1200px;
+    height: 800px;
+    background-color: orchid;
+    margin: 30px 30px 30px 30px;
+    padding-top: 0;
+    border-top: 50px;
+
+}
+.main{
+    
+}
+.smallbox{
+    width: 850px;
+    height: 150px;
+    background-color: red;
+
+} */
+
+/* .box1{
+    width: 1300px;
+    height: 1000px;
+    background-color: blueviolet;
+} */
+ .bg_img{
+    width: 100vw;
+    /* height:300px; */ */
+    
+
+ } 
+ .wrapper{
+    /* width: 1200px; */
+    height: 600px;
+    background-color: rgb(169, 84, 151);
+
+
+ }
+  .container{
+    width: 100vw;
+    position: relative;
+ } 
+  .inner{
+    width: 400px;
+    height: 450px;
+    background-color: aliceblue;
+    position:absolute;
+    bottom: 40%;
+    right: 40%;
+    border-radius: 5%;
+    /* padding: 25px; */
+    padding: 35px 25px;
+    
+  }
+  .header{
+    display: flex;
+    padding-bottom: 20px;
+    
+    
+  }
+  .headingStyle{
+    padding-left: 20px;
+
+  }
+  .headertwo{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    
+
+  }
+  .headerthree{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    height: 50px;
+    border-bottom: 2px solid grey;
+    /* padding-bottom: 20px; */
+
+  }
+  .headerfour{
+    display: flex;
+    justify-content: space-between;
+
+    height: 50px;
+    border-bottom: 2px solid grey;
+
+
+
+  }
+  .headerfive{
+    display: flex;
+    justify-content: space-between;
+
+    height: 50px;
+    
+
+
+  } 
+  .paragraph{
+    border-bottom: 2px solid grey;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+
+    
+  }
+  .plusimg{
+    width: 30px;
+    
+  }
+  .secondheading{
+    padding-top: 20px;
+    padding-left: 10px;
+  }
+  .firstheading{
+    padding-left: 10px;
+    padding-bottom: 20px;
+  }
+  .minuspic{
+    width: 40px;
+    padding-left: 15px;
+    /* padding-left: 10px; */
+  }
+  .logo{
+    padding-left: 15px;
+  }
+  .firstheading{
+    padding-top: 10px;
+  }
